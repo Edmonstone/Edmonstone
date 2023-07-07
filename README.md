@@ -1,16 +1,46 @@
-### Hi there 👋
+# Hello, I'm Surender V! 👋
 
-<!--
-**Edmonstone/Edmonstone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a young and passionate developer exploring the world of coding!
+## Skills
 
-Here are some ideas to get you started:
+- Critical Thinking and Problem Solving
+- Leadership Skills
+- Fast Learner
+- Agile and ability to multitask
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programming Languages:
+- Python
+- C
+- C++
+- Java
+
+Web Development:
+- HTML
+- CSS
+- JavaScript
+- Angular
+
+## Contact
+
+- LinkedIn: [Surender V](https://www.linkedin.com/in/surender-venkatesan-72aa17205/)
+- Email: surenderoffcl2002@gmail.com
+
+## Hobbies
+
+- Solving Rubik’s Cubes
+- Playing Cricket and Football
+- Surfing the web to explore interesting facts
+
+Feel free to reach out to me if you have any questions, collaboration ideas, or just want to connect!
+
+<div align="center">
+    <a href="https://github.com/Edmonstone">
+        <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub" />
+    </a>
+    <a href="https://www.linkedin.com/in/surender-venkatesan-72aa17205/">
+        <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" />
+    </a>
+    <a href="mailto:surenderoffcl2002@gmail.com">
+        <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+</div>
