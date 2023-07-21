@@ -39,19 +39,21 @@
   </div>
 </div>
 
+<h1>Contact</h1>
+<ul>
+    <li>LinkedIn: <a href="https://www.linkedin.com/in/surender-venkatesan-72aa17205/">Surender V</a></li>
+    <li>Email: <a href="mailto:surenderoffcl2002@gmail.com">surenderoffcl2002@gmail.com</a></li>
+</ul>
 
-## Contact
+<h1>Hobbies</h1>
+<ul>
+    <li>Solving Rubik’s Cubes</li>
+    <li>Playing Cricket and Football</li>
+    <li>Surfing the web to explore interesting facts</li>
+</ul>
 
-- LinkedIn: [Surender V](https://www.linkedin.com/in/surender-venkatesan-72aa17205/)
-- Email: surenderoffcl2002@gmail.com
+<p>Feel free to reach out to me if you have any questions, collaboration ideas, or just want to connect!</p>
 
-## Hobbies
-
-- Solving Rubik’s Cubes
-- Playing Cricket and Football
-- Surfing the web to explore interesting facts
-
-Feel free to reach out to me if you have any questions, collaboration ideas, or just want to connect!
 
 <div align="center">
     <a href="https://github.com/Edmonstone">
