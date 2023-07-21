@@ -10,15 +10,16 @@ I'm a young and passionate developer exploring the world of coding!
 
 Programming Languages:
 - Python
-- C
 - C++
 - Java
+- Kotlin
 
 Web Development:
-- HTML
-- CSS
-- JavaScript
-- Angular
+- HTML/CSS/JS
+- TypeScript
+- Django
+- Nodejs
+- ReactJS
 
 ## Contact
 
