@@ -1,4 +1,4 @@
-# Hello, I'm Surender V! 👋
+![Banner](https://raw.githubusercontent.com/Edmonstone/Edmonstone/main/Banner.png)
 
 More than a Developer!
 
