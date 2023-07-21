@@ -1,26 +1,44 @@
 ![Banner](https://raw.githubusercontent.com/Edmonstone/Edmonstone/main/Banner.png)
 
-More than a Developer!
+<h1 align="center">More than a Developer!</h1>
 
-## Skills
+<h2 align="center">Skills</h2>
+<p align="center">
+  - Critical Thinking and Problem Solving<br>
+  - Leadership Skills<br>
+  - Fast Learner<br>
+  - Agile and ability to multitask
+</p>
 
-- Critical Thinking and Problem Solving
-- Leadership Skills
-- Fast Learner
-- Agile and ability to multitask
+<h2 align="center">Programming Languages</h2>
+<p align="center">
+  - Python<br>
+  - C++<br>
+  - Java<br>
+  - Kotlin
+</p>
 
-Programming Languages:
-- Python
-- C++
-- Java
-- Kotlin
+<h2 align="center">Web Development</h2>
+<p align="center">
+  - HTML/CSS/JS<br>
+  - TypeScript<br>
+  - Django<br>
+  - Nodejs<br>
+  - ReactJS
+</p>
 
-Web Development:
-- HTML/CSS/JS
-- TypeScript
-- Django
-- Nodejs
-- ReactJS
+<div style="display: flex; align-items: center; justify-content: center; height: 100vh;">
+  <div style="display: flex;">
+    <div style="flex: 0 0 45%; margin-right: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Edmonstone&show_icons=true&theme=chartreuse-dark" />
+    </div>
+    <div style="margin-bottom: 20px;"></div>
+    <div style="flex: 0 0 45%; margin-left: 10px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Edmonstone&theme=chartreuse-dark" />
+    </div>
+  </div>
+</div>
+
 
 ## Contact
 
