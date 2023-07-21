@@ -1,6 +1,7 @@
 # Hello, I'm Surender V! 👋
 
-I'm a young and passionate developer exploring the world of coding!
+More than a Developer!
+
 ## Skills
 
 - Critical Thinking and Problem Solving
