@@ -2,29 +2,29 @@
 
 <h1 align="center">More than a Developer!</h1>
 
-<h2 align="center">Skills</h2>
+<h2 align="center">What in my Mind?</h2>
 <p align="center">
-  - Critical Thinking and Problem Solving<br>
-  - Leadership Skills<br>
-  - Fast Learner<br>
-  - Agile and ability to multitask
+  -> Always Critical Thinking and Problem Solving<br>
+  -> Believe in Skills Rather than All!<br>
+  -> It's okay to be slow but do it till end!<br>
+  -> Consistent in stuffs...
 </p>
 
 <h2 align="center">Programming Languages</h2>
 <p align="center">
-  - Python<br>
-  - C++<br>
-  - Java<br>
-  - Kotlin
+  -> Python<br>
+  -> C++<br>
+  -> Java<br>
+  -> Kotlin
 </p>
 
 <h2 align="center">Web Development</h2>
 <p align="center">
-  - HTML/CSS/JS<br>
-  - TypeScript<br>
-  - Django<br>
-  - Nodejs<br>
-  - ReactJS
+  -> HTML/CSS/JS<br>
+  -> TypeScript<br>
+  -> Django<br>
+  -> Nodejs<br>
+  -> ReactJS
 </p>
 
 <p align="center">
@@ -36,20 +36,13 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Edmonstone&theme=chartreuse-dark"/>
 </p>
 
-<h1>Contact</h1>
-<ul>
-    <li>LinkedIn: <a href="https://www.linkedin.com/in/surender-venkatesan-72aa17205/">Surender V</a></li>
-    <li>Email: <a href="mailto:surenderoffcl2002@gmail.com">surenderoffcl2002@gmail.com</a></li>
-</ul>
+<h1 align="center">Contact</h1>
+<p align="center">
+    LinkedIn: <a href="https://www.linkedin.com/in/surender-venkatesan-72aa17205/">Surender V</a><br>
+    Email: <a href="mailto:surenderoffcl2002@gmail.com">surenderoffcl2002@gmail.com</a>
+</p>
 
-<h1>Hobbies</h1>
-<ul>
-    <li>Solving Rubik’s Cubes</li>
-    <li>Playing Cricket and Football</li>
-    <li>Surfing the web to explore interesting facts</li>
-</ul>
-
-<p>Feel free to reach out to me if you have any questions, collaboration ideas, or just want to connect!</p>
+<p align="center">Feel free to reach out to me if you have any questions, collaboration ideas, or just want to connect!</p>
 
 
 <div align="center">
