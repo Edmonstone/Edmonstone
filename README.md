@@ -27,17 +27,14 @@
   - ReactJS
 </p>
 
-<div style="display: flex; align-items: center; justify-content: center; height: 100vh;">
-  <div style="display: flex;">
-    <div style="flex: 0 0 45%; margin-right: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Edmonstone&show_icons=true&theme=chartreuse-dark" />
-    </div>
-    <div style="margin-bottom: 20px;"></div>
-    <div style="flex: 0 0 45%; margin-left: 10px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Edmonstone&theme=chartreuse-dark" />
-    </div>
-  </div>
-</div>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Edmonstone&show_icons=true&theme=chartreuse-dark"/>
+</p>
+
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Edmonstone&theme=chartreuse-dark"/>
+</p>
 
 <h1>Contact</h1>
 <ul>
