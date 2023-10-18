@@ -7,7 +7,7 @@
   -> Always Critical Thinking and Problem Solving<br>
   -> Believe in Skills Rather than All!<br>
   -> It's okay to be slow but do it till end!<br>
-  -> Consistent in stuffs...
+  -> Consistent in stuffs.Making Miracles. 
 </p>
 
 <h2 align="center">Programming Languages</h2>
