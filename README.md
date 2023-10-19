@@ -5,7 +5,7 @@
 <h2 align="center">What in my Mind?</h2>
 <p align="center">
   -> Always Critical Thinking and Problem Solving<br>
-  -> Believe in Skills Rather than All!<br>
+  -> Believe in you than All!<br>
   -> It's okay to be slow but do it till end!<br>
   -> Consistent in stuffs.Making Miracles. 
 </p>
