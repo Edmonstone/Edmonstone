@@ -6,7 +6,7 @@
 <p align="center">
   -> Always Critical Thinking and Problem Solving<br>
   -> Believe in you than All!<br>
-  -> It's okay to be slow but do it till end!<br>
+  -> It's okay to be slow but don't stop the process!<br>
   -> Consistent in stuffs.Making Miracles. 
 </p>
 
