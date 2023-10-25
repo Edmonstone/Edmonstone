@@ -15,6 +15,7 @@
   -> Python<br>
   -> C++<br>
   -> Java<br>
+  -> JavaScript<br>
   -> Kotlin
 </p>
 
