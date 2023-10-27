@@ -2,7 +2,7 @@
 
 <h1 align="center">More than a Developer!</h1>
 
-<h2 align="center">What in my Mind?</h2>
+<h2 align="center">Currently, In my Mind?...</h2>
 <p align="center">
   -> Critical Thinking and Problem Solving<br>
   -> Believe in you than All!<br>
