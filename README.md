@@ -4,7 +4,7 @@
 
 <h2 align="center">Currently, In my Mind?...</h2>
 <p align="center">
-  -> Critical Thinking and Problem Solving<br>
+  -> Critical Thinking, Innovative and Problem Solving<br>
   -> Believe in you than All!<br>
   -> It's okay to be slow but don't stop the process!<br>
   -> Consistent in stuffs.Making Miracles. 
