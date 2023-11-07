@@ -2,6 +2,11 @@
 
 <h1 align="center">More than a Developer!</h1>
 
+<p align="center">
+  Hi, I'm Surender Venkatesan, and I'm more than just a developer. I'm passionate about critical thinking, innovation, problem-solving, and the belief that consistency can lead to miracles. I'm on a journey to make an impact in the tech world.
+</p>
+
+
 <h2 align="center">Currently, In my Mind?..</h2>
 <p align="center">
   -> Critical Thinking, Innovative and Problem Solving<br>
