@@ -31,6 +31,13 @@
   -> ReactJS
 </p>
 
+<h2 align="center">GitHub Activity</h2>
+<p align="center">
+  📦 Over 25+ repositories and counting<br>
+  🚀 Contributed to open-source projects<br>
+  🌟 Check out my GitHub stats below!
+</p>
+
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Edmonstone&show_icons=true&theme=chartreuse-dark"/>
 </p>
