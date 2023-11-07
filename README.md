@@ -43,6 +43,12 @@
 </p>
 
 
+<h2 align="center">Coding Streak</h2>
+<p align="center">
+  🔥 Building my coding streak one day at a time<br>
+  📈 See how my coding journey is progressing below!
+</p>
+
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Edmonstone&theme=chartreuse-dark"/>
 </p>
