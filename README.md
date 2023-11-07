@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/Edmonstone/Edmonstone/main/Banner.png)
+![Banner](https://github.com/Edmonstone/Edmonstone/blob/main/Banner.png)
 
 <h1 align="center">More than a Developer!</h1>
 
