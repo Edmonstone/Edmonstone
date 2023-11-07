@@ -15,14 +15,12 @@
   🌈 Consistency is my secret to making miracles happen.
 </p>
 
-<h2 align="center">Programming Languages</h2>
+<h2 align="center">My Toolkit</h2>
 <p align="center">
-  -> Python<br>
-  -> C++<br>
-  -> Java<br>
-  -> JavaScript<br>
-  -> Kotlin
+  💻 Python, C++, Java, JavaScript, Kotlin<br>
+  🌐 HTML/CSS/JS, TypeScript, Django, Node.js, ReactJS
 </p>
+
 
 <h2 align="center">Web Development</h2>
 <p align="center">
