@@ -59,7 +59,11 @@
     Email: <a href="mailto:surenderoffcl2002@gmail.com">surenderoffcl2002@gmail.com</a>
 </p>
 
-<p align="center">Feel free to reach out to me if you have any questions, collaboration ideas, or just want to connect!</p>
+<h2 align="center">Let's Connect!</h2>
+<p align="center">
+  📫 Feel free to reach out to me if you have questions, collaboration ideas, or just want to connect!<br>
+  🌐 Connect with me on LinkedIn or send me an email.
+</p>
 
 
 <div align="center">
