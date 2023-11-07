@@ -7,12 +7,12 @@
 </p>
 
 
-<h2 align="center">Currently, In my Mind?..</h2>
+<h2 align="center">My Values</h2>
 <p align="center">
-  -> Critical Thinking, Innovative and Problem Solving<br>
-  -> Believe in you than All!<br>
-  -> It's okay to be slow but don't stop the process!<br>
-  -> Consistent in stuffs.Making Miracles. 
+  🧠 I believe in the power of critical thinking and innovation.<br>
+  🌟 I trust in myself more than anyone else.<br>
+  🐢 Progress may be slow, but quitting is not an option!<br>
+  🌈 Consistency is my secret to making miracles happen.
 </p>
 
 <h2 align="center">Programming Languages</h2>
