@@ -12,7 +12,7 @@
   🧠 I believe in the power of critical thinking and innovation.<br>
   🌟 I trust in myself more than anyone else.<br>
   🐢 Progress may be slow, but quitting is not an option!<br>
-  🌈 Consistency is my secret to making miracles happen.
+  🌈 Consistency is my secret to making miracles happen!
 </p>
 
 <h2 align="center">My Toolkit</h2>
